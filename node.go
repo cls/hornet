@@ -1,6 +1,6 @@
 // Copyright (C) 2022, Connor Lane Smith <cls@lubutu.com>
 
-package hornet
+package main
 
 type Node struct {
 	Tag   int
